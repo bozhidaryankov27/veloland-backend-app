@@ -11,7 +11,7 @@ The application manages products, orders, and stock control using PostgreSQL and
 - Transaction management
 ## Features
 -Product(Create, Read, Update, Delete) operations
--Order Creattion with validation
+-Order Creation with validation
 -Automatic stock reduction
 -DTO pattern for request handling
 -Total price calculation using Big Decimal
